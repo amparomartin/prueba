@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<figures>
+
+	<figure type= "rectangle"> </figure>
+		<position>
+			<vertice x="150" y="400"/>
+			<width> 120 </width>
+			<height> 150 </height>
+		</position>
+	</figure>
+
+	<figure type="circle">
+		<position> 
+			<vertice x="400" y="400"/>
+			<ratio> 100 </ratio>
+		</position>
+
+	<figure type="straight line"> </figure>
+		<position>
+			<vertice 
+
+
+
+
+</figures>
+
+
