@@ -3,30 +3,26 @@
 
 <figures>
 
-	<figure type= "rectangle"> </figure>
+	<figure type= "rectangle">
 		<position>
 			<vertice x="150" y="400"/>
-			<width> 120 </width>
-			<height> 150 </height>
 		</position>
+		<width> 120 </width>
+		<height> 150 </height>
 	</figure>
 
 	<figure type="circle">
 		<position> 
 			<vertice x="400" y="400"/>
-			<ratio> 100 </ratio>
 		</position>
-
-	<figure type="straight line"> </figure>
-		<position>
-			<vertice 
-
-
-
-
+		<ratio> 100 </ratio>
+	</figure>
+	<figure type="straight line"> 
+		<inicio-linea x="300" y="200"/>
+		<fin-linea x="200" y="200"/>
+	</figure>  
 </figures>
-
 
 =======
 ejercicio graficos vectoriales
->>>>>>> He crado el fichero ejerciciograficosvectoriales.xml
+>>>>>>> He creado el fichero ejerciciograficosvectoriales.xml
