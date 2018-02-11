@@ -2,7 +2,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <figures>
-
 	<figure type= "rectangle">
 		<position>
 			<vertice x="150" y="400"/>
@@ -17,6 +16,7 @@
 		</position>
 		<ratio> 100 </ratio>
 	</figure>
+	
 	<figure type="straight line"> 
 		<inicio-linea x="300" y="200"/>
 		<fin-linea x="200" y="200"/>
