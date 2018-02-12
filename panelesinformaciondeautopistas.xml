@@ -1,1 +1,32 @@
 Inventar un lenguaje XML para paneles de información de autopistas
+
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<panelesinformacionautopistas>
+
+	<evento1> 
+
+		<señaldeaccidente/>
+		<puntokilometrico> 42,200 </puntokilometrico>
+		<nombredelavia> A-49 </nombredelavia>
+		<sentido> Huelva </sentido>
+		<cortedelavia> 1 carril </cortedelavia>
+		<fechayhoradelevento/>
+		<retencion> Sí </retencion>
+		<kilometrosderetencion> 8 </kilometrosderetencion>
+
+	</evento1>
+
+	<evento2>
+
+		<señalderetencion/>
+		<puntokilometrico> 550 </puntokilometrico>
+		<nombredelavia> A-4 </nombredelavia>
+		<sentido> Sevilla </sentido>
+		<fechayhoradelevento/>
+		<retencion> Sí </retencion>
+		<kilometrosderetencion> 3 </kilometrosderetencion>
+
+	</evento2>
+
+</panelesinformacionautopistas>
